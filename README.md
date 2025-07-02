@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 🏗️ Warehouse Management System (WMS) - MVP
 
 This project is a Minimum Viable Product for a Warehouse Management System that includes:
@@ -56,6 +57,10 @@ streamlit run ai_query_app.py
 **Desil Cyril Dsilva**  
 🔗 [Portfolio](https://desilwork.online)  
 🔗 [GitHub](https://github.com/desild)
+=======
+# Warehouse
+MVP for a Warehouse Management System featuring sales data cleaning, SKU–MSKU mapping, AI-driven text-to-SQL queries, and dynamic charting. Built using Python, Flask, and Baserow to simplify and enhance warehouse operations.
+>>>>>>> 112f88b56bda03e92ca9d6befe7a1526cd51694d
 =======
 # Warehouse
 MVP for a Warehouse Management System featuring sales data cleaning, SKU–MSKU mapping, AI-driven text-to-SQL queries, and dynamic charting. Built using Python, Flask, and Baserow to simplify and enhance warehouse operations.
